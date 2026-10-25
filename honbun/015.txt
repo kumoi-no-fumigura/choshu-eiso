@@ -18,7 +18,7 @@ zkt-choshu-eiso-0718				汲て知る人もまれにや成ぬらむ更にもい�
 zkt-choshu-eiso-0719				悲しきは〓とをたちにしから國のむかしの跡に	
 zkt-choshu-eiso-0720				習ひてや深きうきめにねも絕ぬかつ身の程を	
 zkt-choshu-eiso-0721				厭へどもこゝろの水し淺ければ胸のはちす葉	
-zkt-choshu-eiso-0722				いつしかとひらけむととは難けれどたどる〓〓も	
+zkt-choshu-eiso-0722				いつしかとひらけむととは難けれどたどる／＼も	
 zkt-choshu-eiso-0723				暗きよをいづべき道と入ぬれば一たびなども	
 zkt-choshu-eiso-0724				いふ人を捨ぬひかりに誘はれて玉をつらぬる	
 zkt-choshu-eiso-0725				木の下に花ふりしかむ時にあはヾちぎり同じき	
