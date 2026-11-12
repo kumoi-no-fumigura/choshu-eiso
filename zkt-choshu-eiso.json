@@ -25,11 +25,14 @@
    "url": "https://dl.ndl.go.jp/pid/873676"
   }
  ],
- "status": "未校正（續國歌大觀 第一冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 832,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-choshu-eiso-0001",
@@ -11692,7 +11695,7 @@
   "blocks": 832,
   "chars": 19599,
   "poems": 832,
-  "yaku": 0,
+  "yaku": 832,
   "editions": 1,
   "updated": "2026-10-23",
   "updated_at": "2026-10-23T00:04:46+09:00"
